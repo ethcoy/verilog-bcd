@@ -1,6 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="0" />
-    <testcase name="axis_bcd" classname="axis_bcd_tb" file="/home/ecoyle/repos/verilog-bcd/tb/axis_bcd/axis_bcd_tb.py" lineno="79" time="0.008453845977783203" sim_time_ns="2850.0" ratio_time="337124.6658017937" />
-  </testsuite>
-</testsuites>
